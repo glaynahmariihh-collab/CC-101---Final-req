@@ -12,8 +12,7 @@ body{
     height: 100vh;
     overflow: hidden;
 
-    /* Replace with your CODM background */
-    background-image: url(backgroun.png);
+    background-image: url (backgroun.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
